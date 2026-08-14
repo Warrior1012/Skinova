@@ -775,7 +775,12 @@ These are future directions and are not required for the current prototype.
 **Skinova Team**
 
 Built as an Open Innovation hackathon project.
-
+Team members are: 
+TANISHQ AGARWAL
+SHRADDHA GUPTA
+YASHICA AGARWAL
+ARYA GUPTA
+ADVITA SINGH
 ---
 
 # License
