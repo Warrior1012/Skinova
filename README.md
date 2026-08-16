@@ -732,24 +732,6 @@ Examples include:
 
 All external datasets, models, libraries and referenced resources should be credited according to their respective licenses and terms.
 
----
-
-# Screenshots
-
-Recommended screenshots for the repository:
-
-```text
-screenshots/
-├── landing.png
-├── image-quality.png
-├── ml-analysis.png
-├── gradcam.png
-├── contextual-questions.png
-├── context-flip.png
-├── final-result.png
-├── evidence-trail.png
-└── pdf-report.png
-```
 
 ---
 
