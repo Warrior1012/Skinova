@@ -327,5 +327,3 @@ See the `LICENSE` file for details.
 GitHub:
 [https://github.com/Warrior1012/Skinova](https://github.com/Warrior1012/Skinova)
 
-```
-
